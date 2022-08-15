@@ -1,0 +1,9 @@
+AMSUMPing Release Notes
+
+Version: 1.0.0
+
+Date: 12/12/2017
+
+Author: David Hall
+
+Release Description: Initial Release

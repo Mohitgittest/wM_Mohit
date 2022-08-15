@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="enabled">yes</value>
+  <value name="system_package">no</value>
+  <value name="version">1.0.5</value>
+  <null name="startup_services"/>
+  <null name="shutdown_services"/>
+  <null name="replication_services"/>
+  <record name="requires" javaclass="com.wm.util.Values">
+    <value name="AMSSL">*.*</value>
+  </record>
+  <value name="listACL">Default</value>
+  <value name="webappLoad">yes</value>
+  <value name="name">AMSUMPing</value>
+  <value name="build"></value>
+  <value name="description">STGD_IS_</value>
+  <value name="time">2018-11-03 15:58:31 UTC</value>
+  <value name="jvm_version">1.8.0_101</value>
+  <null name="publisher"/>
+  <value name="patch_nums"></value>
+</Values>
